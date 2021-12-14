@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DawffyddRiv
 - 👀 I’m interested in data analysys and software development
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on python dasboards development
 - 📫 How to reach me: @Dawffydd_Riv
 
