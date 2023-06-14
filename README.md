@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @DawffyddRiv
 - 👀 I’m interested in data analysys and software development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on python dasboards development
-- 📫 How to reach me: @Dawffydd_Riv
+- 🌱 I’m currently learning OOP
+- 📫 How to reach me: @Dawffydd_Riv on twitter
 
 <!---
 DawffyddRiv/DawffyddRiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
